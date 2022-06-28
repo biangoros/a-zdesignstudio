@@ -149,11 +149,6 @@ h2.nuestroteam {
     height: auto;
 }
 
-team1,
-fototeam1 {
-    filter: drop-shadow(1.05);
-}
-
 .team2 {
     display: flex;
     flex-direction: row;
@@ -250,6 +245,7 @@ h3 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .article2 {
