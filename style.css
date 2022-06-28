@@ -348,14 +348,14 @@ p {
     display: flex;
     align-items: center;
     flex-direction: row;
-    justify-content: flex-start;
-    padding: 1% 400px;
+    justify-content: center;
 }
 
+
 .volver {
-    padding: -10% -50px;
     color: #5e9266;
 }
+
 
 #contacto.h2 {
     padding-bottom: 15px;
