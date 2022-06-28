@@ -1,3 +1,4 @@
+
 /*--universal tag (*)--*/
 * {
     box-sizing: border-box;
@@ -24,6 +25,7 @@ ul {
 body {
     font-family: 'Open Sans', sans-serif;
     color: #594a4e;
+    background-color: #FFFAFA;
 }
 
 .logo {
@@ -124,7 +126,7 @@ h2.trabrea {
 }
 
 #team {
-    background-color: #fffffe;
+    background-color: #FFFAFA;
 }
 
 h2.nuestroteam {
@@ -148,6 +150,7 @@ h2.nuestroteam {
     max-width: 100%;
     height: auto;
 }
+
 
 .team2 {
     display: flex;
@@ -253,6 +256,7 @@ h3 {
 
 }
 
+
 h2.trabrea {
     padding-bottom: 15px;
     padding-top: 15px;
@@ -351,11 +355,9 @@ p {
     justify-content: center;
 }
 
-
 .volver {
     color: #5e9266;
 }
-
 
 #contacto.h2 {
     padding-bottom: 15px;
